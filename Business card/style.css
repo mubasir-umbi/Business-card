@@ -1,0 +1,21 @@
+body{
+    border: 20px;  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.image{
+    width: 150px;
+    border-radius: 5PX;
+}
+
+.card{
+    margin: 0 auto;
+    width: 400px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: #2b2839;
+    background: #7ee9da;
+    border-bottom: 6PX solid #60b5a9;
+}
